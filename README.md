@@ -1,1 +1,2 @@
-# bconnect_inspectionfoot is great
+# The BConnect Inspection Head Foot
+Print your own foot!
